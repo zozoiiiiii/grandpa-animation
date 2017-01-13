@@ -40,7 +40,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="..\..\..\Include;..\..\Performance;..\tokamak"
+				AdditionalIncludeDirectories="..\..\..\Include;..\..\Performance;..\tokamak;..\..\..\DxSDK2007\Include"
 				PreprocessorDefinitions="WIN32;_DEBUG;_LIB"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
